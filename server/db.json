@@ -1,0 +1,79 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "todo": "Do something nice for someone I care about",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "todo": "Memorize the fifty states and their capitals",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "todo": "Watch a classic movie",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "todo": "Solve a Rubik's cube",
+      "completed": false
+    },
+    {
+      "id": 10,
+      "todo": "Have a football scrimmage with some friends",
+      "completed": false
+    },
+    {
+      "id": 11,
+      "todo": "Text a friend I haven't talked to in a long time",
+      "completed": false
+    },
+    {
+      "id": 12,
+      "todo": "Organize pantry",
+      "completed": true
+    },
+    {
+      "id": 13,
+      "todo": "Buy a new house decoration",
+      "completed": false
+    },
+    {
+      "id": 14,
+      "todo": "Plan a vacation I've always wanted to take",
+      "completed": false
+    },
+    {
+      "id": 16,
+      "todo": "Draw and color a Mandala",
+      "completed": true
+    },
+    {
+      "id": 17,
+      "todo": "Create a cookbook with favorite recipes",
+      "completed": false
+    },
+    {
+      "id": 18,
+      "todo": "Bake a pie with some friends",
+      "completed": false
+    },
+    {
+      "id": 19,
+      "todo": "Create a compost pile",
+      "completed": true
+    },
+    {
+      "id": 20,
+      "todo": "Take a hike at a local park",
+      "completed": true
+    },
+    {
+      "id": 21,
+      "todo": "Take a class at local community center that interests you",
+      "completed": false
+    }
+  ]
+}

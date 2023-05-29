@@ -1,0 +1,11 @@
+.all_todo_box{
+    height: 80vh;
+    background-color:#ccc;
+}
+.todoCard{
+    display: flex;
+    min-height:40px;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid whitesmoke;
+}
